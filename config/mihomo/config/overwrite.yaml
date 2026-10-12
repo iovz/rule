@@ -60,7 +60,6 @@ dns:
     - "+.local"
     - "+.market.xiaomi.com"
   default-nameserver:
-    - system
     - 223.5.5.5
   nameserver:
     - quic://650971-sf4hbw0t7z6xpey2.alidns.com:853
